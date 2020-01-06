@@ -1,2 +1,2 @@
 # screeps-main
-min screeps code repo
+main screeps code repo
