@@ -1,0 +1,1 @@
+console.clear();console.log(angular.element(document.getElementsByClassName('console-controls')[0].children[1])).scope().Console.clear());
